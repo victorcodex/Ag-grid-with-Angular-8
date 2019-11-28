@@ -1,4 +1,4 @@
-# Ag-grid-with-Angular-8
+# Ag-grid with Angular 8
 
 This project depicts a basic to advance use of ag-grid with Angular 8.
 
